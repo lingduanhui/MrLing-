@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://81.68.80.178:5464/study?characterEncoding=utf8
+    username: root
+    password: ling0109
